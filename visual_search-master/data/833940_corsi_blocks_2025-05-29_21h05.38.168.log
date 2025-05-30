@@ -1,0 +1,71 @@
+4.4462 	WARNING 	Font Manager failed to load file C:\Windows\Fonts\THSarabunIT๙ Italic.ttf
+4.4517 	WARNING 	Font Manager failed to load file C:\Windows\Fonts\THSarabunIT๙ BoldItalic.ttf
+4.4775 	WARNING 	Font Manager failed to load file C:\Windows\Fonts\TH Niramit AS-IT๙ Bold Italic.ttf
+4.4780 	WARNING 	Font Manager failed to load file C:\Windows\Fonts\TH NiramitIT๙.ttf
+4.4999 	WARNING 	Font Manager failed to load file C:\Windows\Fonts\TH NiramitIT๙ Bold.ttf
+4.5106 	WARNING 	Font Manager failed to load file C:\Windows\Fonts\THSarabunIT๙ Bold.ttf
+4.5330 	WARNING 	Font Manager failed to load file C:\Windows\Fonts\TH NiramitIT๙ Italic.ttf
+4.5349 	WARNING 	Font Manager failed to load file C:\Windows\Fonts\THSarabunIT๙.ttf
+4.7797 	WARNING 	Font Manager failed to load file C:\Windows\Fonts\THSarabunIT๙ Italic.ttf
+4.7852 	WARNING 	Font Manager failed to load file C:\Windows\Fonts\THSarabunIT๙ BoldItalic.ttf
+4.8098 	WARNING 	Font Manager failed to load file C:\Windows\Fonts\TH Niramit AS-IT๙ Bold Italic.ttf
+4.8104 	WARNING 	Font Manager failed to load file C:\Windows\Fonts\TH NiramitIT๙.ttf
+4.8313 	WARNING 	Font Manager failed to load file C:\Windows\Fonts\TH NiramitIT๙ Bold.ttf
+4.8429 	WARNING 	Font Manager failed to load file C:\Windows\Fonts\THSarabunIT๙ Bold.ttf
+4.8653 	WARNING 	Font Manager failed to load file C:\Windows\Fonts\TH NiramitIT๙ Italic.ttf
+4.8671 	WARNING 	Font Manager failed to load file C:\Windows\Fonts\THSarabunIT๙.ttf
+7.1193 	INFO 	Loaded monitor calibration from ['2025_01_13 11:25']
+7.9357 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000027BA65F5C60>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000027BA65F4040>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([1., 1., 1.]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000027BA66BE500>, multiSample=False, name='window1', numSamples=2, pos=[560.0, 240.0], screen=0, size=array([800, 600]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+7.9357 	EXP 	window1: backgroundImage = ''
+7.9357 	EXP 	window1: backgroundFit = 'none'
+7.9516 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.9524 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.9532 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.9541 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.9550 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.9555 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.9562 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.9571 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.9574 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.9578 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.9585 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.9593 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.9599 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.9607 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.9613 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.9621 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.9629 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.9634 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.9639 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.9650 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.9657 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.9668 	DEBUG 	Uploading Texture Font fontname to graphics card
+7.9692 	DEBUG 	Upload of Texture Font fontname complete
+7.9750 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.9760 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.9769 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+7.9771 	DEBUG 	Uploading Texture Font fontname to graphics card
+7.9781 	DEBUG 	Upload of Texture Font fontname complete
+7.9797 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+7.9797 	EXP 	window1: recordFrameIntervals = False
+8.1497 	EXP 	window1: recordFrameIntervals = True
+8.3322 	EXP 	Screen (0) actual frame rate measured at 60.03Hz
+8.3322 	EXP 	window1: recordFrameIntervals = False
+8.3372 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3377 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3385 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3395 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3405 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3414 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3419 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3428 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3437 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3446 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.3448 	DEBUG 	Uploading Texture Font fontname to graphics card
+8.3454 	DEBUG 	Upload of Texture Font fontname complete
+8.3726 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+11.6936 	INFO 	keyboard.Keyboard is using iohub backend.
+11.6936 	EXP 	corsi_blocks: status = STARTED
+11.9658 	DEBUG 	Saving data for corsi_blocks ExperimentHandler
+11.9667 	INFO 	saved data to C:\Users\Dell\Downloads\visual_search-master\visual_search-master-demo3\visual_search-master\data/833940_corsi_blocks_2025-05-29_21h05.38.168.psydat
+11.9672 	INFO 	saved data to 'C:\\Users\\Dell\\Downloads\\visual_search-master\\visual_search-master-demo3\\visual_search-master\\data/833940_corsi_blocks_2025-05-29_21h05.38.168.csv'
